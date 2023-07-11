@@ -153,7 +153,7 @@
 // console.log("6abs" / "2");
 // console.log("6abs" + "2");
 
-//! Abbriviation
+//? Abbriviation
 // let a = 2;
 // a = a * 2;
 // a *= 2;
